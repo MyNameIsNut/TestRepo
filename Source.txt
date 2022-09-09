@@ -8,6 +8,6 @@ my First Commit
 
 git status
 git add NameOfFile or add .
-git commit -m"Update NameOfFile"
+git commit -m"Update Message"
 git push
 git pull
