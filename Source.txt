@@ -1,6 +1,11 @@
-hello
+How to Clone
+
+git clone LinkToRepo
+
+///
 
 my First Commit
+
 git status
 git add NameOfFile or add .
 git commit -m"Update NameOfFile"
