@@ -2,7 +2,7 @@ hello
 
 my First Commit
 git status
-git add NameOfFile
+git add NameOfFile or add .
 git commit -m"Update NameOfFile"
 git push
 git pull
